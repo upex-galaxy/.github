@@ -68,9 +68,9 @@ Dentro del Universo UPEX, la Comunidad es el Planetario dedicado a todo referent
 
 * 🥂Nos encanta dar y recibir feedback constantemente! Así crecemos todos al mismo tiempo!
 
-* 🧭Ayudamos a TODOS por igual a resolver sus dudas y bloqueantes mientras estudian o trabana.
+* 🧭Ayudamos a TODOS por igual a resolver sus dudas y bloqueantes mientras estudian o trabajan.
 
-* 🤯Te digo la verdad si te digo que UPEX ha crecido más rápido que mi cuero cabelludo! tanto así que he tenido que acudir a convertir a algunos miembros en Moderadores, Rangers y Deployers, cuyas personas son las más serviciales y atentas para atender tus necesidades con mucho cariño!
+* 🤯La verdad es que UPEX ha crecido más rápido que mi cuero cabelludo! tanto así que he tenido que acudir a convertir a algunos miembros en Moderadores, Rangers y Deployers, cuyas personas son las más serviciales y atentas para atender tus necesidades con mucho cariño!
     
 >**¡LISTO! SI LLEGASTE HASTA ACÁ, HABRÁS CONQUISTADO ESTE SISTEMA SOLAR DE UPEX**  
 >**¡Viajemos a la siguiente Etapa! 🚀**
@@ -92,9 +92,9 @@ Planetario dedicado a todo referente a los Cursos de UPEX, todo sobre los temari
 
 * 🎯Es el curso definitivo que necesitas para aprender todo lo necesario para convertirte en un Analista QA Tester Manual!
 
-* 💎ES PREMIUM PERO TOTALMENTE GRATIS!!
+* 💎ES PREMIUM PERO TOTALMENTE GRATIS!
 
-* 👉🏻Reúne el TRIDENTE del Testing (AgileTest+SQL+API) para asegurar tu primer Empleo QA!!
+* 👉🏻Reúne los conocimientos del TRIDENTE del Testing (QA+SQL+API) para asegurar tu primer Empleo!
 
 * **TEMARIO COMPLETO**:
 
@@ -172,7 +172,7 @@ Planetario dedicado a todo referente a los Cursos de UPEX, todo sobre los temari
 
 * 🤯Descubre la VERDADERA forma de aprender SQL para el Testing!
 
-* 💎ES PREMIUM PERO TOTALMENTE GRATIS !!
+* 💎ES PREMIUM PERO TOTALMENTE GRATIS!
 
 * **TEMARIO COMPLETO:**
 
@@ -201,9 +201,10 @@ Planetario dedicado a todo referente a los Cursos de UPEX, todo sobre los temari
 
 * 🐞CURSO de API REST Testing (para QA) DESDE CERO Y AL GRANO!
 
-* 🤖Ambientado al Testing Automatizado de API REST, como la estructura Web más demandada!  
+* 🤖Ambientado al Testing Automatizado de API REST, como la estructura Webservice más demandada!  
 * 🚀Usando Postman, como la herramienta más demandada en el mercado!  
 * 🧬Trabajando con el formato JSON, como el lenguaje de envío de información más usado!
+* 💎ES PREMIUM PERO TOTALMENTE GRATIS!
 
 * **TEMARIO COMPLETO:**
 
@@ -260,7 +261,7 @@ Planetario dedicado a todo referente al Espacio de Trabajo en UPEX, para ganar e
 * 🚩CREE EL MEJOR ESPACIO “OPEN SOURCE” QUE NO SE HA VISTO NUNCA EN OTROS CURSOS!  
     * Gracias a “Jira Software” pude lograr crear este espacio para que TODOS pudieran trabajar!!
 
-+ 🧬La idea fue construir un Proyecto de Jira FULL OPEN SOURCE que tuviera muchísimas Historias de Usuario (Súper completas) de diferentes SUT en el Backlog, y que tuviera TODO SÚPER PERSONALIZADO, y que pudiera integrarse con EL MEJOR GESTOR DE PRUEBAS como lo es “XRay”. ✅Una integración que fue exitosa y completamente perfecta.
++ 🧬La idea fue construir un Proyecto de Jira FULL OPEN SOURCE que tuviera muchísimas Historias de Usuario (Muy Realistas) de diferentes SUT, y que TODO tuviera SÚPER PERSONALIZADO, y que Jira pudiera integrarse con EL MEJOR GESTOR DE PRUEBAS como lo es “XRay”. ✅Una integración que fue exitosa y completamente perfecta.
 
 * 🎉Ahora tú mismo podrás trabajar en este espacio como si estuvieras realmente en tu Trabajo!  
     * 😎Lo entiendes? YA PODRÁS GANAR UNA VERDADERA EXPERIENCIA como Tester QA!
@@ -272,7 +273,7 @@ Planetario dedicado a todo referente al Espacio de Trabajo en UPEX, para ganar e
 
 * 💥Bienvenido al MEJOR ESPACIO DE LA DOCUMENTACIÓN GENERAL DE UPEX!
 
-* 👀Confluence es el hermano de Jira, es donde se lleva a cabo todo lo referente a documentación y encuadernación de contenido. Es un Espectáculo!!
+* 👀Confluence es el hermano de Jira, es donde se lleva a cabo todo lo referente a documentación y encuadernación de contenido. Es un Espectáculo!
 
 * 📝Tendrás este espacio disponible siempre a la mano para consultar cualquier tema ya sea de UPEX Academy o Workspaces.
 
@@ -282,7 +283,7 @@ Planetario dedicado a todo referente al Espacio de Trabajo en UPEX, para ganar e
 
 >**¡Vayamos al siguiente Planeta! 🚀**
 
-## #2: Pruebas de Base de Datos con MYSQL
+## #2: Pruebas de Base de Datos con MySQL
 
 * 🐬Aprenderás a usar la herramienta favorita de UPEX para practicar SQL: “MySQL”, y realizar todas las actividades del temario junto con los trabajos QA llevados en Jira.
 
@@ -323,7 +324,7 @@ Planetario dedicado a todo referente a la Búsqueda Laboral en UPEX, para por fi
 ## 👾BONUS: Estrategia LEGENDARIA para conseguir muchas Entrevistas
 Le digo esto un Agujero de gusano porque es un atajo increíble hacia tu siguiente destino: EL TRABAJO.
 
-* 🤯TE ENSEÑO GRATIS una Guía Completa PASO A PASO sobre la mejor estrategia psicológica para poder conseguir un mayor logaritmo de Linkedin, y mayor visibilidad, para que los reclutadores puedann ver tu talento en más búsquedas y seas contactado!
+* 🤯TE ENSEÑO GRATIS una Guía Completa PASO A PASO sobre la mejor estrategia psicológica para poder conseguir un mayor algoritmo de Linkedin, y mayor visibilidad, para que los reclutadores puedan ver tu talento en más búsquedas y seas contactado!
 
 * 😍🎉Lo más importante es que gracias a UPEX vas a poder colocarlo como EXPERIENCIA en tu perfil de Linkedin! Pregúntame cómo!
 
