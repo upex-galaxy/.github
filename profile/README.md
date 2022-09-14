@@ -1,5 +1,6 @@
 ### 😱Y SI TE DIGO QUE PUEDES APRENDER Y GANAR EXPERIENCIA REAL AL MISMO TIEMPO?
 # **¡GRATIS!**
+![UPEX's Banners (linkedin) (2)](https://user-images.githubusercontent.com/91127281/190245814-62e824b9-d78c-4949-92a9-865de097f903.png)
 
 ✨ESTOS SON ALGUNOS TESTIMONIOS DE TESTERS QUE LO LOGRARON!...
 [HISTORIAL DE EGRESADOS](https://github.com/upex-galaxy/.github/blob/upex/Testimonios.md)
