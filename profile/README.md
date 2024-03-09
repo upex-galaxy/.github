@@ -15,7 +15,7 @@ El ecosistema UPEX se estructura en cuatro componentes principales:
 
 Workspace de **Jira** abierto al público de la comunidad de UPEX donde pueden jugar y practicar Testing gratuitamente. Los estudiantes pueden experimentar los primeros niveles de tareas de un QA con la finalidad de probar antes de entrar en UPEX Galaxy.
 
-[Accede al workspace de Jira gratuito aquí](https://id.atlassian.com/invite/p/jira-software?id=Tea2RqDdQjmf8nuwJQrUzA)
+[Accede al workspace de Jira Gratuito llenando este Formulario](https://forms.gle/eZN2CqpVMcTq2m4U7)
 
 ### UPEX Blackhole
 
